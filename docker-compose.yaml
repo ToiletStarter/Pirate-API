@@ -1,0 +1,9 @@
+version: '3.9'
+
+services:
+  torrent-api:
+    build: .
+    container_name: torrent-api
+    ports:
+      - "8000:8000"
+    restart: always

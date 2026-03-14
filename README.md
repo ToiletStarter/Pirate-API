@@ -11,29 +11,9 @@ git clone https://github.com/Charaf3334/Torrent-API.git
 ```bash
 cd Torrent-API
 ```
-3. Create a virtual environment for Python and activate it:
+3. Launch the application using Docker:
 ```bash
-python3 -m venv venv
-```
-- For Linux:
-```bash
-source venv/bin/activate
-```
-- For Windows:
-```bash
-.\venv\Scripts\Activate
-```
-4. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-5. Run migrations:
-```bash
-python3 manage.py migrate
-```
-6. Finally, run server:
-```bash
-./run.sh
+docker compose up -d
 ```
 
 # Usage:
