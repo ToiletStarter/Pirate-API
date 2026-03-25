@@ -1,6 +1,6 @@
 
 # Torrent-API
-A lightweight Rest API written in Django that fetches torrents data from Piratebay.
+A lightweight Django REST API that fetches torrents data from Piratebay.
 
 # Run locally:
 1. Clone the repository:
