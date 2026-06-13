@@ -1,5 +1,7 @@
 Forked for custom multi-api video grabbing blah blah vidking is boring basically and I need more, and im building off this cause im too lazy to start from scratch. 🥰
 
+OG creator: https://github.com/Charaf3334
+
 Updates:
 
 
