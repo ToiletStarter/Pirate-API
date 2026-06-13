@@ -1,3 +1,10 @@
+Forked for custom multi-api video grabbing blah blah vidking is boring basically and I need more, and im building off this cause im too lazy to start from scratch. 🥰
+
+Updates:
+
+
+
+(down caret) ˅ ignore dis
 
 # Torrent-API
 A lightweight Django REST API that fetches torrents data from Piratebay.
